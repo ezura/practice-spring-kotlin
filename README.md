@@ -16,5 +16,7 @@
 1. set path to npm
   - `echo 'export PATH=$PATH:$HOME/.nodebrew/current/bin' >> ~/.bash_profile`
 
-### Anguler
+### Anguler (first time)
 1. `npm install @angular/cli`
+1. `/ng new client`
+  - N, stylus
