@@ -6,7 +6,7 @@
 
 * [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 
-## Prepare
+## Setup
 ### npm
 1. install nodebrew
   - `brew install nodebrew`
@@ -15,3 +15,6 @@
   - `nodebrew use v14.14.0`
 1. set path to npm
   - `echo 'export PATH=$PATH:$HOME/.nodebrew/current/bin' >> ~/.bash_profile`
+
+### Anguler
+1. `npm install @angular/cli`
