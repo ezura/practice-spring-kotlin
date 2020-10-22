@@ -20,3 +20,8 @@
 1. `npm install @angular/cli`
 1. `/ng new client`
   - N, stylus
+  
+  `npm install stylus`
+
+## run
+`./node_modules/@angular/cli/bin/ng serve --open`
